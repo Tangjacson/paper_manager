@@ -1,32 +1,19 @@
 # Awesome-PaperManager-ComLLMSys
-A curated list for **Efficient Large Language Models**
+A paper manager for **LLM and wireless systems**
 
 ## Full List
-  - [MIMO](mimo.md)
-  - [Spectrum](spectrum.md)
-  - [wirelessLLM](wirelessfm.md)
-  - [Knowledge Distillation](knowledge_distillation.md)
-  - [Network Pruning](pruning.md)
-  - [Quantization](quantization.md)
-  - [Inference Acceleration](inference_acceleration.md)
-  - [Efficient MOE](efficient_moe.md)
-  - [Efficient Architecture of LLM](efficient_architecture_llm.md)
-  - [KV Cache Compression](kv_cache_compression.md)
-  - [Text Compression](text_compression.md)
-  - [Low-Rank Decomposition](low_rank_decomposition.md)
-  - [Hardware/System](hardware.md)
-  - [Tuning](tuning.md)
-  - [Survey](survey.md)
-  - [Leaderboard](leaderboard.md)
+  - [LLM system](llm/llmsys.md)
+  - [wireless measurement](wireless/measurement.md)
+  - [wireless FM](wireless/wirelessfm.md)
+  TBC
+
+  
+
 
 ### Please check out all the papers by selecting the sub-area you're interested in. On this page, we're showing papers released in the past 30 days.
 
 #### 🚀 Updates
-* May 29, 2023: We've had this awesome list for a year now :smiling_face_with_three_hearts:! It's grown pretty long, so we're reorganizing it and would divide the list by their specific areas into different readme.
-* Sep 27, 2023: Add tag ![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue) for papers accepted at NeurIPS'23.
-* Sep 6, 2023: Add a new subdirectory [project/](project/) to organize those projects that are designed for developing a lightweight LLM.
-* July 11, 2023:
-In light of the numerous publications that conduct experiments using PLMs (such as BERT, BART) currently, a new subdirectory [efficient_plm/](efficient_plm/) is created to house papers that are applicable to PLMs but have yet to be verified for their effectiveness on LLMs (not implying that they are not suitable on LLM). 
+* June 1, 2024: I will update this manager also as a recorder for the current research direction including LLM and wireless.
 
 
 
