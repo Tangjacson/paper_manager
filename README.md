@@ -3,8 +3,8 @@ A curated list for **Efficient Large Language Models**
 
 ## Full List
   - [MIMO](mimo.md)
-  - [Spectrum] (spectrum.md)
-  - [wirelessLLM] (wirelessfm.md)
+  - [Spectrum](spectrum.md)
+  - [wirelessLLM](wirelessfm.md)
   - [Knowledge Distillation](knowledge_distillation.md)
   - [Network Pruning](pruning.md)
   - [Quantization](quantization.md)
