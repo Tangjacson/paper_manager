@@ -1,6 +1,6 @@
 
 ## Inference Acceleration
-| Title & Authors | Introduction | Links |
+| Title & Authors | Introduction | Links | Paper note |
 |:--|  :----: | :---:|
 |[![Star](https://img.shields.io/github/stars/FMInference/DejaVu.svg?style=social&label=Star)](https://github.com/FMInference/DejaVu)[![Publish](https://img.shields.io/badge/Conference-ICML'23%20Oral-blue)]()<br>[Deja Vu: Contextual Sparsity for Efficient LLMs at Inference Time](https://openreview.net/forum?id=wIPIhHd00i) <br> Zichang Liu, Jue WANG, Tri Dao, Tianyi Zhou, Binhang Yuan, Zhao Song, Anshumali Shrivastava, Ce Zhang, Yuandong Tian, Christopher Re, Beidi Chen |<img width="202" alt="image" src="figures/DajeVu.png"> |[Github](https://github.com/FMInference/DejaVu) <br> [Paper](https://openreview.net/forum?id=wIPIhHd00i)|
 |[![Publish](https://img.shields.io/badge/Conference-NeurIPS'23-blue)]()<br>[Dynamic Context Pruning for Efficient and Interpretable Autoregressive Transformers](https://arxiv.org/abs/2305.15805) <br> Sotiris Anagnostidis, Dario Pavllo, Luca Biggio, Lorenzo Noci, Aurelien Lucchi, Thomas Hofmann |<img width="1602" alt="image" src="figures/DCP.png"> |[Paper](https://arxiv.org/abs/2305.15805)|
