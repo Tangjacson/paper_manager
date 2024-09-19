@@ -1,4 +1,4 @@
-# Awesome-PaperManager-ComLLMSys
+# Awesome-PaperManager-Efficient DM
 A curated list for **Efficient Diffusion Models**
 
 ## Full List
